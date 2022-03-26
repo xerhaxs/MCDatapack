@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "___",
+        "_B_",
+        "___"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:prismarine_slab"
+        },
+        "B": {
+            "item": "minecraft:black_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:dark_prismarine_slab",
+        "count": 8
+    }
+}

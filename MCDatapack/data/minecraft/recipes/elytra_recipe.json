@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#D#",
+        "ECE",
+        "PDP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:feather"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        },
+        "E": {
+            "item": "minecraft:emerald_block"
+        },
+        "C": {
+            "item": "minecraft:end_crystal"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}
