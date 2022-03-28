@@ -1,5 +1,5 @@
 function serversoftware:adds
 function serversoftware:ranks
 function serversoftware:gamerule
-function serversoftware:sidebar
 function serversoftware:welcome
+function serversoftware:lightdetaction
