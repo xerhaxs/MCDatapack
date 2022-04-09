@@ -2,18 +2,18 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "#",
-        "D",
-        "A"
+        "G",
+        "D"
     ],
     "key": {
         "#": {
-            "item": "minecraft:ghast_tear"
+            "item": "minecraft:ender_pearl"
+        },
+        "G": {
+            "item": "minecraft:glass"
         },
         "D": {
-            "item": "minecraft:diamond_pickaxe"
-        },
-        "A": {
-            "item": "minecraft:amethyst_shard"
+            "item": "minecraft:diamond"
         }
     },
     "result": {

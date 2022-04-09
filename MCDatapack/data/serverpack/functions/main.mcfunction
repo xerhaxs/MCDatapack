@@ -3,3 +3,4 @@ function serversoftware:ranks
 function serversoftware:gamerule
 function serversoftware:welcome
 function serversoftware:lightdetaction
+function serversoftware:voiddetaction

@@ -1,4 +1,6 @@
 #add scores + teams + modify
+scoreboard objectives add Spielzeit minecraft.custom:minecraft.play_time
+
 scoreboard objectives add FLo.L dummy {"text":"F lo.l","color":"dark_red","bold":"true"}
 scoreboard objectives setdisplay sidebar FL.oL
 
@@ -31,8 +33,6 @@ team add Flo.l
 team modify Flo.l color dark_aqua
 team modify Flo.l suffix [{"text":" | ","color":"dark_gray"},{"text":"","color":""}]
 team modify Flo.l prefix [{"text":"Flo.l","color":"dark_aqua"},{"text":" | ","color":"dark_gray"}]
-
-
 
 
 #NOOB
